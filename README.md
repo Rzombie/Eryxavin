@@ -7,7 +7,7 @@ The past few cycles have taught trading teams a simple lesson: long-run results 
 
 The logic is straightforward. Fragmentation creates context switching; context switching creates mistakes. Unifying analytics, risk guardrails, and action inside one mental model reduces both. If you want to see how dashboards, alerts, and exports connect in practice, **[access the Eryxavin platform here](https://eryxavincanada.com/?utm_term=annghenu160)** and follow the public walkthroughs before touching any live capital.
 
-![Analysts reviewing dashboards in a bright workspace](https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1170&h=780&dpr=1)
+![Analysts reviewing dashboards in a bright workspace](https://thumbs.dreamstime.com/b/flat-top-view-analyst-team-use-bi-dashboard-data-analysis-concord-workspace-wooden-table-papers-planning-business-312300147.jpg)
 
 ## What the Platform Does — and What It Intentionally Avoids
 At its core, **Eryxavin** gives you a quiet, structured place to read the market, encode constraints, and keep actions traceable. You create views, filter signals, define thresholds, and document intent. The goal isn’t “more buttons,” it’s fewer frictions. For getting started without overfitting, the **[official platform guide](https://eryxavincanada.com/?utm_term=annghenu160)** outlines basic patterns that translate well to production.
@@ -21,8 +21,6 @@ Automation here is practical, not mystical. The platform handles repetitive task
 
 ## UX That Respects Focus (Desktop and Mobile)
 Interfaces matter when time pressure is real. The layout keeps critical actions one or two clicks away, with context menus revealed only when relevant. On mobile, you can confirm alerts, adjust exposure, and share snapshots with stakeholders rather than waiting to get back to a desk. A quick tour is available via **[see what Eryxavin can do for you](https://eryxavincanada.com/?utm_term=annghenu160)** to understand how navigation patterns stay consistent across devices.
-
-![Close-up of charts and KPIs for quick review](https://images.pexels.com/photos/669616/pexels-photo-669616.jpeg?auto=compress&cs=tinysrgb&w=1170&h=780&dpr=1)
 
 ## Practical Use Cases That Save Time
 - **Trend watch with explicit thresholds:** follow momentum and volatility with clearly defined cutoffs per instrument.
